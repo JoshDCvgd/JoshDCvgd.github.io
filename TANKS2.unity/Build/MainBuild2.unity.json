@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "TANKS!",
+"productVersion": "1.0",
+"dataUrl": "MainBuild2.unity.data.unityweb",
+"wasmCodeUrl": "MainBuild2.unity.wasm.code.unityweb",
+"wasmFrameworkUrl": "MainBuild2.unity.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.1f1"
+}
